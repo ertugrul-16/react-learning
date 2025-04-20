@@ -12,3 +12,5 @@ export const getData = async(number)=>{
 
 
 export default getData;
+
+// not
